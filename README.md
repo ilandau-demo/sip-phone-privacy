@@ -1,8 +1,8 @@
-# Nextiva Companion App browser extension — privacy policy
+# Telvoro - Presence & SIP Phone browser extension — privacy policy
 
 _Last updated: 2026-11-09 · applies to extension version 2.5.0 and later_
 
-The Nextiva Companion App extension is a front end for a business phone system. It handles
+The Telvoro extension is a front end for a business phone system. It handles
 your data as follows.
 
 **What it stores on your device**
@@ -15,7 +15,7 @@ your data as follows.
   the mode off deletes them.
 
 **Where data goes**
-- With the Nextiva Companion desktop app: the extension talks only to that app on your
+- With the Telvoro desktop app: the extension talks only to that app on your
   own computer (localhost / native messaging), including identifying itself to
   the app by its extension ID so the app can accept the connection. The app
   contacts your phone system as configured by you.
@@ -26,7 +26,7 @@ your data as follows.
 
 **Phone numbers you click**
 A number you choose to call (selected text or a tel: link) is passed to the
-Nextiva Companion desktop app on your computer to place the call. It is not stored by the
+Telvoro desktop app on your computer to place the call. It is not stored by the
 extension.
 
 **Data we collect**
