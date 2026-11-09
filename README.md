@@ -1,6 +1,6 @@
 # Nextiva Companion App browser extension — privacy policy
 
-_Last updated: 2026-11-08 · applies to extension version 2.5.0 and later_
+_Last updated: 2026-11-09 · applies to extension version 2.5.0 and later_
 
 The Nextiva Companion App extension is a front end for a business phone system. It handles
 your data as follows.
