@@ -1,6 +1,6 @@
 # Telvoro - Presence & SIP Phone browser extension — privacy policy
 
-_Last updated: 2026-11-12 · applies to extension version 2.5.1 and later_
+_Last updated: 2026-11-13 · applies to extension version 2.6.0 and later_
 
 The Telvoro extension is a front end for a business phone system. It handles
 your data as follows.
